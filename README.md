@@ -35,9 +35,9 @@ CONSIDERACIONES
 Requerimientos
 --------------
 
--   Arduino IDE [Link de descarga](https://www.arduino.cc/en/Main/Software)
+-   [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 
--   Bateria Li-po de 3.7 V, minimo de 500 mAh con conector JST 2 [imagen]()
+-   [Bateria Li-po de 3.7 V, minimo de 500 mAh con conector JST 2](https://github.com/Iotnet/Goblin-2-plus-Sigfox/blob/master/imagenes/bateria.jpg)
 
 -   Para el ejemplo se utilizaran los siguientes sensores:
     
