@@ -41,6 +41,7 @@ void send_info()
   digitalWrite(enable, HIGH);
   delay(1000);
   Serial.print("AT$RC\n");
+  SerialUSB.print(bufer);
   Serial.print(bufer);
   delay(3000);
   digitalWrite(enable, LOW);

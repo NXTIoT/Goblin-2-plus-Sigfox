@@ -39,12 +39,16 @@ Requerimientos
 
 -   [Bateria Li-po de 3.7 V, minimo de 500 mAh con conector JST 2](https://github.com/Iotnet/Goblin-2-plus-Sigfox/blob/master/imagenes/bateria.jpg)
 
+-   Cuenta en el backend de Sigfox
+
 -   Para el ejemplo se utilizaran los siguientes sensores:
     
     -   Sensor de temperatura TMP102
     
 Ejemplo
 -------
+
+
 
 
 
