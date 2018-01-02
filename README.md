@@ -48,15 +48,15 @@ Requerimientos
 Ejemplo
 -------
 
-![gob1](https://github.com/Iotnet/Goblin-2-plus-Sigfox/blob/master/images/gob1.png?raw=true)
+![gob1](https://github.com/Iotnet/Goblin-2-plus-Sigfox/blob/master/imagenes/gob1.png?raw=true)
 
-![gob2](https://github.com/Iotnet/Goblin-2-plus-Sigfox/blob/master/images/gob2.png?raw=true)
+![gob2](https://github.com/Iotnet/Goblin-2-plus-Sigfox/blob/master/imagenes/gob2.png?raw=true)
 
-![ar1](https://github.com/Iotnet/Goblin-2-plus-Sigfox/blob/master/images/ar1.png?raw=true)
+![ar1](https://github.com/Iotnet/Goblin-2-plus-Sigfox/blob/master/imagenes/ar1.png?raw=true)
 
-![ar2](https://github.com/Iotnet/Goblin-2-plus-Sigfox/blob/master/images/ar2.png?raw=true)
+![ar2](https://github.com/Iotnet/Goblin-2-plus-Sigfox/blob/master/imagenes/ar2.png?raw=true)
 
-![ar3](https://github.com/Iotnet/Goblin-2-plus-Sigfox/blob/master/images/ar3.png?raw=true)
+![ar3](https://github.com/Iotnet/Goblin-2-plus-Sigfox/blob/master/imagenes/ar3.png?raw=true)
 
 
 
