@@ -50,6 +50,8 @@ Ejemplo
 
 Conectamos la Bateria Li-po en el conector JST, la antena, el cable USB a la Tarjeta y el sensor de acuerdo al siguiente diagrama. 
 
+![gob01](https://github.com/Iotnet/Goblin-2-plus-Sigfox/blob/master/imagenes/gob01.jpeg?raw=true)
+
 Movemos el switch hacia ON.
 
 ![gob4](https://github.com/Iotnet/Goblin-2-plus-Sigfox/blob/master/imagenes/gob4.jpeg?raw=true)
