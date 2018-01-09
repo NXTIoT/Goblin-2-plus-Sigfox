@@ -48,7 +48,11 @@ Requerimientos
 Ejemplo
 -------
 
-Conectamos la Bateria Li-po en el conector JST, la antena y el cable USB a la Tarjeta. Encendemos el switch hacia ON.
+Conectamos la Bateria Li-po en el conector JST, la antena, el cable USB a la Tarjeta y el sensor de acuerdo al siguiente diagrama. 
+
+Movemos el switch hacia ON.
+
+![gob4](https://github.com/Iotnet/Goblin-2-plus-Sigfox/blob/master/imagenes/gob4.jpeg?raw=true)
 
 A continuación abrimos el programa de Arduino. En la barra de Herramientas seleccionamos Placa->Arduino/Genuino Zero (Native USB Port)
 
@@ -58,11 +62,11 @@ Ahora, seleccionamos el puerto. Nos vamos a Herramientas->Puerto y seleccionamos
 
 ![gob2](https://github.com/Iotnet/Goblin-2-plus-Sigfox/blob/master/imagenes/gob2.png?raw=true)
 
-descargamos el código de ejemplo. Damos click en la “Paloma” para compilar el código y enseguida damos click en la “Flecha” para cargar nuestro programa. Una vez cargado nos aparecerá el mensaje “Subido”
+descargamos el código de ejemplo. Damos click en "Compilar" (1) y enseguida damos click en la "Subir" (2) para cargar nuestro programa. Una vez cargado nos aparecerá el mensaje “Subido”
 
-![ar1](https://github.com/Iotnet/Goblin-2-plus-Sigfox/blob/master/imagenes/ar1.png?raw=true)
+![ar1](https://github.com/Iotnet/Goblin-2-plus-Sigfox/blob/master/imagenes/ar1.jpeg?raw=true)
 
-Abrimos la terminal dando click en la lupa. Enseguida nos aparecerá el valor de la temperatura y su representación en hexadecimal que será enviado por Sigfox. Parpadeara el led de “Status RF” tres veces, indicando que se esta enviado la información por Sigfox 
+Abrimos la terminal. Enseguida nos aparecerá el valor de la temperatura y su representación en hexadecimal que será enviado por Sigfox. Parpadeara el led de “Status RF” tres veces, indicando que se esta enviado la información por Sigfox 
 
 ![ar3](https://github.com/Iotnet/Goblin-2-plus-Sigfox/blob/master/imagenes/ar3.png?raw=true)
 
