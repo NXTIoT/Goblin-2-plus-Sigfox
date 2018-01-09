@@ -28,7 +28,7 @@ En el siguiente [LINK](https://verse-technology.com/goblin2plussigfox/files/GOBL
 CONSIDERACIONES
 ---------------
 
-- Es importante reacalcar que la tarjeta Goblin trabaja con voltajes de 3.3 V, es decir, las entradas analógicas y digitales no pueden ser alimentadas con mas de 3.3 V, de lo contrario pueden ser dañadas. 
+- Es importante recalcar que la tarjeta Goblin trabaja con voltajes de 3.3 V, es decir, las entradas analógicas y digitales no pueden ser alimentadas con mas de 3.3 V, de lo contrario pueden ser dañadas. 
 
 - Para tener un buen desempeño, debe conectarse una bateria Li-po de 3.7 V en todo momento, y más si se hace uso del módulo Wisol, para mandar mensajes por Sigfox. 
 
@@ -43,7 +43,7 @@ Requerimientos
 
 -   Para el ejemplo se utilizaran los siguientes sensores:
     
-    -   Sensor de temperatura TMP102
+    -   [Sensor de temperatura TMP102](![tmp102](https://github.com/Iotnet/Goblin-2-plus-Sigfox/blob/master/imagenes/tmp102.jpg?raw=true))
     
 Ejemplo
 -------
