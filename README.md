@@ -43,7 +43,7 @@ Requerimientos
 
 -   Para el ejemplo se utilizaran los siguientes sensores:
     
-    -   [Sensor de temperatura TMP102](![tmp102](https://github.com/Iotnet/Goblin-2-plus-Sigfox/blob/master/imagenes/tmp102.jpg?raw=true))
+    -   [Sensor de temperatura TMP102](https://github.com/Iotnet/Goblin-2-plus-Sigfox/blob/master/imagenes/tmp102.jpg)
     
 Ejemplo
 -------
