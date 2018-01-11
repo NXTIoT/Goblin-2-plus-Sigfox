@@ -80,7 +80,6 @@ Ahora para decodificar el dato enviado, se debe realizar el parsing del payload.
 
 ![dev10](https://github.com/Iotnet/IoTnet_DEVKIT/blob/master/images/dev10.png?raw=true)
 
-Revisando los mensajes del dispositivo, veremos que ahora debajo del dato enviado aparecerá la información de la temperatura tal como nos aparece en el monitor serie de Arduino
 
 
 
